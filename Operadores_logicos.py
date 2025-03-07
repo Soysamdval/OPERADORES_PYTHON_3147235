@@ -17,7 +17,7 @@ op4 = not op1
 print (op4)
 
 '''
-JERARQUÍ DEFINITIVA DE OPERACIONES
+JERARQUÍA DEFINITIVA DE OPERACIONES
 1. ()
 2. **
 3. *, /, %
