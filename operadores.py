@@ -33,3 +33,16 @@ JERARQUIA DE OPERADORES INCLUYENDO RELACIONALES
 5. >, <, >=, <=, !=, ==
 6. =
 '''
+
+'''
+JERARQUÍA DEFINITIVA DE OPERACIONES
+1. ()
+2. **
+3. *, /, %
+4. +,-
+5. >, <, !=, ==, <=, >=
+6. NOT
+7. AND
+8. OR
+9. =
+'''
