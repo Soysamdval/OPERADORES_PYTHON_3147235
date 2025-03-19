@@ -11,7 +11,7 @@ sintaxis:
 '''
 
 edad =  int(input('¿Cuál es su edad?: '))
-documento = int(input('¿Cuál es su edad?: '))
+documento = (input('¿tienes documento? '))
 
 if edad >=18 and documento == True :
     print("Usted puede votar")
