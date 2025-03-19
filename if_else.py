@@ -10,8 +10,8 @@ sintaxis:
         instruccion4
 '''
 
-edad = 20
-documento = False
+edad =  int(input('¿Cuál es su edad?: '))
+documento = int(input('¿Cuál es su edad?: '))
 
 if edad >=18 and documento == True :
     print("Usted puede votar")
